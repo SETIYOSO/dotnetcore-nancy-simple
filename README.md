@@ -1,6 +1,6 @@
 # .NET Core and Nancy example code
 
-This is a simple DotnetCore-NancyFX to get basic working "hello world" based on [jpf code][https://github.com/jpf/dotnet-core-and-nancy-example]
+This is a simple DotnetCore-NancyFX to get basic working "hello world" based on [jpf code](https://github.com/jpf/dotnet-core-and-nancy-example)
 
 
 - .Net Core 2.1.4
